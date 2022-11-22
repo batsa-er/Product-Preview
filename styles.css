@@ -118,7 +118,8 @@ button svg{
 
 @media only screen and (max-width: 628px) {
     .column {
-        grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     }
 
     .img img {
