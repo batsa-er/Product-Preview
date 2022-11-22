@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here](https://batsa-er.github.io/Product-Preview/)
+- Live Site URL: [https://batsa-er.github.io/Product-Preview/]
 
 ## My process
 
